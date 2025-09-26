@@ -1,6 +1,6 @@
 *Akbank Global Ai Hub Derin Öğrenme Bootcamp Projesi*
 
-Eren Üçgül 
+Eren Üçgül / 
 Ahmed Tuğberk Özoğlu
 
 ##  Proje Amacı
