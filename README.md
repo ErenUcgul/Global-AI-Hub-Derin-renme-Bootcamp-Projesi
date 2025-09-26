@@ -79,7 +79,8 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 - **Validation Accuracy**: ~ 0.7577
 - **Toplam Parametre Sayısı**: ~11,336,358
 <img width="454" height="282" alt="image" src="https://github.com/user-attachments/assets/755cf41f-f2d1-4890-9c64-d277b146ff55" />
-
+<img width="463" height="285" alt="image" src="https://github.com/user-attachments/assets/108acc10-99ff-4843-9d6c-872bdc6e54d6" />
+<img width="479" height="293" alt="image" src="https://github.com/user-attachments/assets/46fb7a5b-a031-436f-97e0-fa708a7457ae" />
 
 ### Sınıf Bazında Performans (Beklenen)
 | Sınıf | Accuracy | Önceki | Hedeflenen |
@@ -90,6 +91,12 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 | Mountain | 0.71 | 0.71 | 0.80+ |
 | Sea | 0.78 | 0.78 | 0.85+ |
 | Street | 0.79 | 0.79 | 0.85+ |
+
+<img width="931" height="737" alt="image" src="https://github.com/user-attachments/assets/713b6f9c-2845-46e0-8622-64b2cd0e7cf5" />
+
+### Yanlış sınıflandırılan örnekler
+
+<img width="856" height="575" alt="image" src="https://github.com/user-attachments/assets/8f614076-9b01-4d34-8c58-2c333cbaf52d" />
 
 ### Temel İyileştirmeler
 1. **Class Weights** kullanımı ile buildings sınıfının performansı artırıldı
@@ -140,3 +147,4 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 **Eren Üçgül **
 **Ahmed Tuğberk Özoğlu**
 
+Bu repo eğitim amaçlı hazırlanmıştır.
