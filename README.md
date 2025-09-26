@@ -29,7 +29,7 @@ Bu proje, Intel Image Classification veri setini kullanarak Convolutional Neural
 ### Veri Seti Dağılımı
 Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sınıfı diğer sınıflara göre daha az temsil edilmektedir.
 
-## 🔧 Kullanılan Yöntemler
+##  Kullanılan Yöntemler
 
 ### 1. Veri Önişleme
 - **Görüntü Normalizasyonu**: Piksel değerleri [0,1] aralığına normalize edildi
@@ -78,6 +78,8 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 - **Test Accuracy**: ~0.7533 
 - **Validation Accuracy**: ~ 0.7577
 - **Toplam Parametre Sayısı**: ~11,336,358
+<img width="454" height="282" alt="image" src="https://github.com/user-attachments/assets/755cf41f-f2d1-4890-9c64-d277b146ff55" />
+
 
 ### Sınıf Bazında Performans (Beklenen)
 | Sınıf | Accuracy | Önceki | Hedeflenen |
