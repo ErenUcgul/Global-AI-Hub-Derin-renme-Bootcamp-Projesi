@@ -3,17 +3,17 @@
 Eren Üçgül 
 Ahmed Tuğberk Özoğlu
 
-## 📋 Proje Amacı
+##  Proje Amacı
 
 Bu proje, Intel Image Classification veri setini kullanarak Convolutional Neural Network (CNN) mimarisi ile görüntü sınıflandırması yapmayı amaçlamaktadır. Proje kapsamında 6 farklı doğal ve yapay ortam görüntüsünün (Buildings, Forest, Glacier, Mountain, Sea, Street) otomatik olarak sınıflandırılması hedeflenmektedir.
 
-## 🎯 Hedefler
+##  Hedefler
 - Derin öğrenme ve CNN mimarileri konusunda pratik deneyim kazanmak
 - Görüntü sınıflandırması problemlerinde veri önişleme tekniklerini uygulamak
 - Model performansını artırmak için hiperparametre optimizasyonu yapmak
 - Overfitting problemini çözmek için regularization teknikleri kullanmak
 
-## 📊 Veri Seti Hakkında
+##  Veri Seti Hakkında
 
 **Intel Image Classification Dataset**
 - **Kaynak**: [Kaggle - Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
@@ -72,7 +72,7 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 - **EarlyStopping**: Val_accuracy monitör, patience=10
 - **ReduceLROnPlateau**: Öğrenme oranını dinamik olarak azaltma
 
-## 📈 Elde Edilen Sonuçlar
+##  Elde Edilen Sonuçlar
 
 ### Model Performansı
 - **Test Accuracy**: ~0.7533 
@@ -95,7 +95,7 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 3. **Global Average Pooling** ile spatial information korundu
 4. **Optimized Data Augmentation** ile generalization artırıldı
 
-## 📊 Model Değerlendirme
+##  Model Değerlendirme
 
 ### Kullanılan Metrikler
 - **Accuracy ve Loss Grafikleri**: Epoch bazında training/validation performansı
@@ -109,7 +109,7 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 - Yanlış sınıflandırılan örnek görüntüler
 - Sınıf dağılımı grafikleri
 
-## 🚀 Teknoloji Stack
+##  Teknoloji Stack
 
 - **Framework**: TensorFlow 2.x / Keras
 - **Dil**: Python
@@ -119,7 +119,7 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 - **Platform**: Kaggle Notebooks
 
 
-## 🎯 Gelecek İyileştirmeler
+##  Gelecek İyileştirmeler
 
 1. **Transfer Learning**: ResNet50, VGG16 gibi pre-trained modeller
 2. **Ensemble Methods**: Birden fazla model kombinasyonu
@@ -127,13 +127,13 @@ Veri setinde sınıf dengesizliği gözlenmiş olup, özellikle "buildings" sın
 4. **Grad-CAM**: Model attention görselleştirmesi
 5. **Cross-Validation**: K-fold validation ile robust değerlendirme
 
-## 📊 Kaggle Notebook
+##  Kaggle Notebook
 
 🔗 **Kaggle Notebook Linki**: https://www.kaggle.com/code/erenucgul/global-ai-hub-derin-renme-bootcamp-projesi
 
 > **Not**: Notebook'ta tüm kodlar çalışır durumda olup, output'lar görüntülenebilir. Dataset otomatik olarak Kaggle üzerinden yüklenmiştir.
 
-## 👨‍💻 Geliştiriciler
+##  Geliştiriciler
 
 **Eren Üçgül **
 **Ahmed Tuğberk Özoğlu**
